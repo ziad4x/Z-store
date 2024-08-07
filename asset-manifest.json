@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Z-store/static/css/main.7c43cbbb.css",
-    "main.js": "/Z-store/static/js/main.551ca45c.js",
+    "main.js": "/Z-store/static/js/main.e9984e0a.js",
     "static/js/453.39fc3cfe.chunk.js": "/Z-store/static/js/453.39fc3cfe.chunk.js",
     "static/media/Model-Chic-Fashion.jpg": "/Z-store/static/media/Model-Chic-Fashion.666f507dc2834bed86af.jpg",
     "static/media/Woman-wearing-green.webp": "/Z-store/static/media/Woman-wearing-green.35acb69bcc48b3a25ac1.webp",
     "index.html": "/Z-store/index.html",
     "main.7c43cbbb.css.map": "/Z-store/static/css/main.7c43cbbb.css.map",
-    "main.551ca45c.js.map": "/Z-store/static/js/main.551ca45c.js.map",
+    "main.e9984e0a.js.map": "/Z-store/static/js/main.e9984e0a.js.map",
     "453.39fc3cfe.chunk.js.map": "/Z-store/static/js/453.39fc3cfe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7c43cbbb.css",
-    "static/js/main.551ca45c.js"
+    "static/js/main.e9984e0a.js"
   ]
 }
